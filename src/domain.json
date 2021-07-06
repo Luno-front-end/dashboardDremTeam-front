@@ -182,5 +182,133 @@
       "password": "123123",
       "ipHost": "192.168.0.1"
     }
+  },
+  {
+    "nameDomain": "zube.com.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "tm-green-life.com.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "nude.vn.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "kangroup.com.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "minitool.kiev.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "okcase.com.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "sambir-pulse.com.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "localmarket.com.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "zube.com.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "tm-green-life.com.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "nude.vn.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "kangroup.com.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "minitool.kiev.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "okcase.com.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "sambir-pulse.com.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
+  },
+  {
+    "nameDomain": "localmarket.com.ua",
+    "FTPAccess": {
+      "login": "max@gmaia.com",
+      "password": "123123",
+      "ipHost": "192.168.0.1"
+    }
   }
 ]
