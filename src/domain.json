@@ -1,6 +1,7 @@
 [
   {
     "nameDomain": "cuarzo.com.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -9,6 +10,7 @@
   },
   {
     "nameDomain": "ipdomofon.com.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -17,6 +19,7 @@
   },
   {
     "nameDomain": "proinstrumenty.com.ua",
+    "params": { "host": "mcHost", "server": "p52689" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -25,6 +28,7 @@
   },
   {
     "nameDomain": "printagent.kiev.ua",
+    "params": { "host": "mcHost", "server": "p52689" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -33,6 +37,7 @@
   },
   {
     "nameDomain": "efc.kiev.ua",
+    "params": { "host": "mcHost", "server": "p52689" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -41,6 +46,7 @@
   },
   {
     "nameDomain": "handcontrol.com.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -49,6 +55,7 @@
   },
   {
     "nameDomain": "beeok.com.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -57,6 +64,7 @@
   },
   {
     "nameDomain": "ostrovsky-lawyer.com.ua",
+    "params": { "host": "zomro", "server": "lole4" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -65,6 +73,7 @@
   },
   {
     "nameDomain": "stalmot.com.ua",
+    "params": { "host": "zomro", "server": "lole4" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -73,6 +82,7 @@
   },
   {
     "nameDomain": "housekeeping.com.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -81,6 +91,7 @@
   },
   {
     "nameDomain": "podboravto.com.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -89,6 +100,7 @@
   },
   {
     "nameDomain": "rated.ua",
+    "params": { "host": "zomro", "server": "qwe5" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -97,6 +109,7 @@
   },
   {
     "nameDomain": "fajnemylo.com.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -105,6 +118,7 @@
   },
   {
     "nameDomain": "vikonda.org.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -113,6 +127,7 @@
   },
   {
     "nameDomain": "zube.com.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -120,7 +135,8 @@
     }
   },
   {
-    "nameDomain": "tm-green-life.com.ua",
+    "nameDomain": "tm-green-life.com",
+    "params": { "host": "hostiq", "server": "clickHost1" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -129,6 +145,7 @@
   },
   {
     "nameDomain": "nude.vn.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -137,6 +154,7 @@
   },
   {
     "nameDomain": "kangroup.com.ua",
+    "params": { "host": "hostiq", "server": "clickHost2" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -145,6 +163,7 @@
   },
   {
     "nameDomain": "minitool.kiev.ua",
+    "params": { "host": "hostiq", "server": "clickHost1" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -153,6 +172,7 @@
   },
   {
     "nameDomain": "okcase.com.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -161,6 +181,7 @@
   },
   {
     "nameDomain": "sambir-pulse.com.ua",
+    "params": { "host": "hostiq", "server": "clickHost1" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -169,6 +190,7 @@
   },
   {
     "nameDomain": "localmarket.com.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",
@@ -177,134 +199,7 @@
   },
   {
     "nameDomain": "themoda.com.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "zube.com.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "tm-green-life.com.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "nude.vn.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "kangroup.com.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "minitool.kiev.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "okcase.com.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "sambir-pulse.com.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "localmarket.com.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "zube.com.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "tm-green-life.com.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "nude.vn.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "kangroup.com.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "minitool.kiev.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "okcase.com.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "sambir-pulse.com.ua",
-    "FTPAccess": {
-      "login": "max@gmaia.com",
-      "password": "123123",
-      "ipHost": "192.168.0.1"
-    }
-  },
-  {
-    "nameDomain": "localmarket.com.ua",
+    "params": { "host": "mcHost", "server": "p2444" },
     "FTPAccess": {
       "login": "max@gmaia.com",
       "password": "123123",

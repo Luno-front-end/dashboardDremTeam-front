@@ -1,7 +1,7 @@
 [
   {
     "nameServer": "mcHost",
-    "nameHost": "p52689",
+    "nameHost": ["p52689", "p2444"],
     "NSHost": ["ns1", "ns2", "ns3"],
     "ipHost": "192.168.0.1",
     "settingsAccess": {
@@ -13,7 +13,7 @@
   },
   {
     "nameServer": "hostiq",
-    "nameHost": "p52689",
+    "nameHost": ["clickHost1", "clickHost2"],
     "NSHost": ["ns1", "ns2", "ns3"],
     "ipHost": "192.168.0.1",
     "settingsAccess": {
@@ -25,7 +25,7 @@
   },
   {
     "nameServer": "hostPro",
-    "nameHost": "p52689",
+    "nameHost": [],
     "NSHost": ["ns1", "ns2", "ns3"],
     "ipHost": "192.168.0.1",
     "settingsAccess": {
@@ -36,8 +36,8 @@
     }
   },
   {
-    "nameServer": "testhost",
-    "nameHost": "p52689",
+    "nameServer": "zomro",
+    "nameHost": ["lole4", "qwe5"],
     "NSHost": ["ns1", "ns2", "ns3"],
     "ipHost": "192.168.0.1",
     "settingsAccess": {
@@ -49,7 +49,7 @@
   },
   {
     "nameServer": "testhost2",
-    "nameHost": "p52689",
+    "nameHost": [],
     "NSHost": ["ns1", "ns2", "ns3"],
     "ipHost": "192.168.0.1",
     "settingsAccess": {
@@ -61,7 +61,7 @@
   },
   {
     "nameServer": "testhost3",
-    "nameHost": "p52689",
+    "nameHost": [],
     "NSHost": ["ns1", "ns2", "ns3"],
     "ipHost": "192.168.0.1",
     "settingsAccess": {
@@ -73,7 +73,7 @@
   },
   {
     "nameServer": "fozzi",
-    "nameHost": "p52689",
+    "nameHost": [],
     "NSHost": ["ns1", "ns2", "ns3"],
     "ipHost": "192.168.0.1",
     "settingsAccess": {
@@ -85,7 +85,7 @@
   },
   {
     "nameServer": "testhost5",
-    "nameHost": "p52689",
+    "nameHost": [],
     "NSHost": ["ns1", "ns2", "ns3"],
     "ipHost": "192.168.0.1",
     "settingsAccess": {
