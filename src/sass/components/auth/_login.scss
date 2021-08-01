@@ -1,0 +1,128 @@
+.auth-container {
+  display: flex;
+  position: relative;
+  background-color: $primary-color-bg-auth;
+}
+.circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 450px;
+  width: 450px;
+  background-color: $secondary-color-bg-auth;
+  border-radius: 50%;
+  border-left: 20px solid $border-auth-color;
+  //   border-top: 15px solid $border-auth-color;
+
+  transform: translate(-50%, -50%);
+  z-index: 5;
+}
+.left-container {
+  width: 42%;
+  height: 100vh;
+  display: flex;
+  //   justify-content: center;
+  align-items: center;
+}
+.qweqwe {
+  position: relative;
+}
+.right-container {
+  background-color: $secondary-color-bg-auth;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  //   align-items: center;
+
+  width: 58%;
+  height: 100vh;
+  position: relative;
+
+  clip-path: polygon(18% 0, 0 50%, 18% 100%, 100% 100%, 100% 0%);
+  z-index: 7;
+  .welcome-container {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    padding-left: 40px;
+    .header-auth {
+      color: $primary-color-blue;
+      margin-top: 0;
+      margin-bottom: 5px;
+    }
+    .conteiner-info-auth {
+      color: $primary-color-grey;
+      display: flex;
+      margin-bottom: 35px;
+      .par-info-auth {
+        &:last-child {
+          margin-left: 10px;
+        }
+      }
+    }
+  }
+}
+
+.oblique-top {
+  background-color: $border-auth-color;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 58.7%;
+  height: 100vh;
+
+  clip-path: polygon(18% 0, 0 50%, 18% 100%, 100% 100%, 100% 0%);
+}
+
+.logo-auth {
+  width: 400px;
+  margin-left: 160px;
+  @media screen and (max-width: 1600px) {
+    width: 300px;
+    margin-left: 120px;
+  }
+  @media screen and (max-width: 1300px) {
+    width: 250px;
+    margin-left: 50px;
+  }
+  @media screen and (max-width: 1024px) {
+    width: 200px;
+    margin-left: 50px;
+  }
+}
+.form-container {
+  width: 264px;
+}
+.form-auth {
+  display: flex;
+  flex-direction: column;
+}
+.login {
+  height: 30px;
+  width: 264px;
+  border-radius: 8px;
+  border: 2px solid #959595;
+  outline: none;
+  margin-bottom: 20px;
+  &:focus {
+    border: 5px solid $primary-color-blue;
+  }
+}
+.pass {
+  height: 30px;
+  width: 264px;
+  border-radius: 8px;
+  border: 1px solid #959595;
+  outline: none;
+  margin-bottom: 25px;
+}
+.btn-login {
+  width: 264px;
+  height: 30px;
+  color: #ffffff;
+  background-color: $primary-color-blue;
+  border: none;
+  border-radius: 8px;
+}
