@@ -2,8 +2,9 @@ import { Switch, Route } from "react-router-dom";
 
 import Container from "./components/Container";
 import Navbar from "./components/SideBar/Navbar";
-import DomainList from "./components/Body/DomainList/DomainList";
-import OfferList from "./components/Body/DomainList/OfferList";
+import DomainList from "./components/Body/Lists/DomainList";
+import OfferList from "./components/Body/Lists/OfferList";
+import HostsList from "./components/Body/Lists/HostsList";
 
 function App() {
   return (
@@ -14,6 +15,9 @@ function App() {
           <Switch>
             <Route exact path="/">
               <DomainList />
+            </Route>
+            <Route path="/hosts">
+              <HostsList />
             </Route>
             <Route path="/offers">
               <OfferList />

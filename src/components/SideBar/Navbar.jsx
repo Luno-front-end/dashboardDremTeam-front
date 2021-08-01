@@ -17,7 +17,7 @@ export default function Navbar() {
           </li>
           <li className="navItem">
             <NavLink
-              to="/offers"
+              to="/hosts"
               className="navLink"
               activeClassName="activeNavLink"
             >
@@ -26,11 +26,29 @@ export default function Navbar() {
           </li>
           <li className="navItem">
             <NavLink
-              to="/sites"
+              to="/addhost"
+              className="navLink"
+              activeClassName="activeNavLink"
+            >
+              Добавить хост
+            </NavLink>
+          </li>
+          <li className="navItem">
+            <NavLink
+              to="/offers"
               className="navLink"
               activeClassName="activeNavLink"
             >
               Офферы
+            </NavLink>
+          </li>
+          <li className="navItem">
+            <NavLink
+              to="/addoffer"
+              className="navLink"
+              activeClassName="activeNavLink"
+            >
+              Добавить оффер
             </NavLink>
           </li>
           <li className="navItem">

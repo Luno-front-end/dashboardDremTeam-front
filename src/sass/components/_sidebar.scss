@@ -14,8 +14,15 @@
   padding: 15px;
   margin: 0;
   .navItem {
+    padding: 5px;
     &:not(:first-child) {
       margin-top: 15px;
+    }
+    &:first-child {
+      border-bottom: 1px solid black;
+    }
+    &:nth-child(3) {
+      border-bottom: 1px solid black;
     }
   }
 }

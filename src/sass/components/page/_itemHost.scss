@@ -1,0 +1,31 @@
+.item-host {
+  display: flex;
+}
+.paragraph-marker {
+  &:not(:last-child) {
+    margin-right: 15px;
+  }
+  &:not(:first-child) {
+    margin-left: 15px;
+  }
+}
+
+.subList-host {
+  display: flex;
+
+  // &:nth() {
+  //   margin-left: 15px;
+  // }
+}
+.subItem-host {
+  &:not(:last-child) {
+    margin-right: 5px;
+  }
+
+  &:first-child {
+    margin-left: 15px;
+  }
+  &:last-child {
+    margin-right: 15px;
+  }
+}
